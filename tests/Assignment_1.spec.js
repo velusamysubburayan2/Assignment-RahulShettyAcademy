@@ -1,3 +1,4 @@
+//playwright.config.js--config file
 /*
  The core playwright package provides libraries for browsers and APIs like launching browsers , connecting API.
  Playwright test runner package provides total testing framework like retries,browsercontext fixtures, assertions.
